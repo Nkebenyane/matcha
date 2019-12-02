@@ -8,4 +8,4 @@ A dating WebSite where the user can create his profile, search other users, like
 4. Real time chat
 5. Real time notification system
 
-![GitHub Logo](/img/verified.jpg)
+![GitHub Logo](/img/index.png)
